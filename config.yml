@@ -1,0 +1,4 @@
+baseURL = "https://geomsi.github.io/"
+languageCode = 'en-us'
+title = 'MSI'
+theme='theme-academic-cv'
