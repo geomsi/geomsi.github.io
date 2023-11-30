@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | MSI</title>
+    <link>https://geomsi.github.io/event/</link>
+      <atom:link href="https://geomsi.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Oct 2023 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geomsi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://geomsi.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>Corn Yield Prediction with Multi-Dimensional Earth Observation Data Using Machine Learning</title>
+      <link>https://geomsi.github.io/talk/corn-yield-prediction-with-multi-dimensional-earth-observation-data-using-machine-learning/</link>
+      <pubDate>Thu, 05 Oct 2023 13:00:00 +0000</pubDate>
+      <guid>https://geomsi.github.io/talk/corn-yield-prediction-with-multi-dimensional-earth-observation-data-using-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Based Soil Moisture Estimation using CYGNSS Mission</title>
+      <link>https://geomsi.github.io/talk/machine-learning-based-soil-moisture-estimation-using-cygnss-mission/</link>
+      <pubDate>Thu, 05 Oct 2023 13:00:00 +0000</pubDate>
+      <guid>https://geomsi.github.io/talk/machine-learning-based-soil-moisture-estimation-using-cygnss-mission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Resolution Geoid Modeling Experiment Using GRAV-D Data Over Colorado.</title>
+      <link>https://geomsi.github.io/talk/high-resolution-geoid-modeling-experiment-using-grav-d-data-over-colorado./</link>
+      <pubDate>Fri, 12 Jul 2019 13:00:00 +0000</pubDate>
+      <guid>https://geomsi.github.io/talk/high-resolution-geoid-modeling-experiment-using-grav-d-data-over-colorado./</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

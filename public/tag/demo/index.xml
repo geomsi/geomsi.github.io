@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo | MSI</title>
+    <link>https://geomsi.github.io/tag/demo/</link>
+      <atom:link href="https://geomsi.github.io/tag/demo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Demo</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://geomsi.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Demo</title>
+      <link>https://geomsi.github.io/tag/demo/</link>
+    </image>
+    
+    <item>
+      <title>Improving Resiliency of Malian Farmers with Yield Estimation: IMPRESSYIELD</title>
+      <link>https://geomsi.github.io/project/impressyield/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://geomsi.github.io/project/impressyield/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
