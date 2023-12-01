@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Geoscientist on the loose! # Website name
+title: MSI # Website name
 baseURL: 'https://geomsi.github.io/' # Website URL
 
 ############################
@@ -62,7 +62,3 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
-module]
-  [module.hugoVersion]
-    extended = true
-    min = '0.111.0'
