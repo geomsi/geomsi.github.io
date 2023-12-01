@@ -1,13 +1,14 @@
 ---
-title: 'Interpretable cotton yield prediction model using Earth Observation time series'
+title: 'Explainable Artificial Intelligence for Cotton Yield Prediction with Multisource Data'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Mehmet Furkan Celik
+  - admin
   - Esra Erten
+  - Gustau Camps-Valls
 
 # Author notes (optional)
 author_notes:
@@ -28,15 +29,15 @@ publication_types: ['paper-conference']
 publication: In *IEEE International Geoscience and Remote Sensing Symposium 2023*
 publication_short: In *IEEE IGARSS 2023*
 
-abstract: This study aimed to assess the influence of Earth observation (EO) time series data, specifically soil properties, climate variables, and Enhanced Vegetation Index, on predicting cotton yield using an explainable artificial intelligence model. By utilizing statistical yield data acquired at the commune level in Turkey between 2019-2021, we developed a model for predicting cotton yield. The model employed the Long Short-Term Memory (LSTM) architecture and incorporated the SHapley Additive exPlanations (SHAP) method as a post-hoc method to explain how EO features impact the cotton yield and to interpret the relationship between these features and the variations in yield data.
+abstract: 'In this study, we examined the effectiveness of integrating satellite-based crop biophysical parameters, meteorological conditions, and soil properties for the end and mid-season cotton yield prediction in the continental United States (CONUS) region. We employed six machine learning algorithms: decision tree (DT), random forest (RF), adaptive boosting (Ad-aBoost), gradient boosting (GB), light gradient boosting machine (LightGBM), and extreme gradient boosting machine (XGBoost). By employing this rigorous approach to hyperparameter tuning based on Bayesian optimization, the XGBoost method was found as the best method for both mid-season and end-season cotton yield prediction. Furthermore, we investigated the global importance of temporal and static features using the Shapley Additive Global importancE (SAGE) method to understand the driving factors of cotton yield prediction. As a result of global feature importance analysis, precipitation (P), enhanced vegetation index (EVI), and leaf area index (LAI) were found as the most important temporal features, while silt and pH were found as the most important soil properties.'
 
 # Summary. An optional shortened abstract.
-summary: This study aimed to assess the influence of Earth observation (EO) time series data, specifically soil properties, climate variables, and Enhanced Vegetation Index, on predicting cotton yield using an explainable artificial intelligence model in Turkey.
+summary: In this study, we examined the effectiveness of integrating satellite-based crop biophysical parameters, meteorological conditions, and soil properties for the end and mid-season cotton yield prediction in the continental United States (CONUS) region.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

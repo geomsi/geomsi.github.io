@@ -1,22 +1,22 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: GNSSpy
+summary: Python Toolkit for GNSS Data
 tags:
-  - Deep Learning
+  - GNSS
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by admin
   focal_point: Smart
 
 links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://github.com/GNSSpy-Project/gnsspy
 url_code: ''
 url_pdf: ''
 url_slides: ''
