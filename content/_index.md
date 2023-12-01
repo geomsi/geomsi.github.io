@@ -64,7 +64,7 @@ sections:
       items:
         - title: Research Assistant
           company: Istanbul Technical University
-          company_url: ''
+          company_url: 'www.itu.edu.tr'
           company_logo: org-gc
           location: Istanbul, Turkey
           date_start: '2016-02-06'
