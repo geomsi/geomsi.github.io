@@ -1,21 +1,19 @@
 ---
-title: 'Explainability of end and mid-season cotton yield predictors in CONUS'
+title: 'Interpretable cotton yield prediction model using Earth Observation time series'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Mehmet Furkan Celik
   - admin
+  - Mehmet Furkan Celik
   - Esra Erten
-  - Gustau Camps-Valls
-
 # Author notes (optional)
 author_notes:
   - 'Corresponding author'
 
 date: '2023-07-01T00:00:00Z'
-doi: '10.1109/IGARSS52108.2023.10283252'
+doi: '10.1109/IGARSS52108.2023.10281702'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-01-01T00:00:00Z'
@@ -29,10 +27,10 @@ publication_types: ['paper-conference']
 publication: In *IEEE International Geoscience and Remote Sensing Symposium 2023*
 publication_short: In *IEEE IGARSS 2023*
 
-abstract: 'In this study, we examined the effectiveness of integrating satellite-based crop biophysical parameters, meteorological conditions, and soil properties for the end and mid-season cotton yield prediction in the continental United States (CONUS) region. We employed six machine learning algorithms: decision tree (DT), random forest (RF), adaptive boosting (Ad-aBoost), gradient boosting (GB), light gradient boosting machine (LightGBM), and extreme gradient boosting machine (XGBoost). By employing this rigorous approach to hyperparameter tuning based on Bayesian optimization, the XGBoost method was found as the best method for both mid-season and end-season cotton yield prediction. Furthermore, we investigated the global importance of temporal and static features using the Shapley Additive Global importancE (SAGE) method to understand the driving factors of cotton yield prediction. As a result of global feature importance analysis, precipitation (P), enhanced vegetation index (EVI), and leaf area index (LAI) were found as the most important temporal features, while silt and pH were found as the most important soil properties.'
+abstract: This study aimed to assess the influence of Earth observation (EO) time series data, specifically soil properties, climate variables, and Enhanced Vegetation Index, on predicting cotton yield using an explainable artificial intelligence model. By utilizing statistical yield data acquired at the commune level in Turkey between 2019-2021, we developed a model for predicting cotton yield. The model employed the Long Short-Term Memory (LSTM) architecture and incorporated the SHapley Additive exPlanations (SHAP) method as a post-hoc method to explain how EO features impact the cotton yield and to interpret the relationship between these features and the variations in yield data.
 
 # Summary. An optional shortened abstract.
-summary: In this study, we examined the effectiveness of integrating satellite-based crop biophysical parameters, meteorological conditions, and soil properties for the end and mid-season cotton yield prediction in the continental United States (CONUS) region.
+summary: This study aimed to assess the influence of Earth observation (EO) time series data, specifically soil properties, climate variables, and Enhanced Vegetation Index, on predicting cotton yield using an explainable artificial intelligence model in Turkey.
 
 tags: []
 
@@ -45,18 +43,18 @@ featured: false
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
@@ -66,14 +64,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+  - IMPRESSYIELD
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}

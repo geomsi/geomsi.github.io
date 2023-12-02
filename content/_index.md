@@ -111,33 +111,33 @@ sections:
   #      {{< gallery album="demo" >}}
   #  design:
   #    columns: '1'
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
+  #- block: collection
+  #  id: posts
+  #  content:
+  #    title: Recent Posts
+  #    subtitle: ''
+  #    text: ''
+  #    # Choose how many pages you would like to display (0 = all pages)
+  #    count: 5
+  #    # Filter on criteria
+  #    filters:
+  #      folders:
+  #        - post
+  #      author: ""
+  #      category: ""
+  #      tag: ""
+  #      exclude_featured: false
+  #      exclude_future: false
+  #      exclude_past: false
+  #      publication_type: ""
+  #    # Choose how many pages you would like to offset by
+  #    offset: 0
+  #    # Page order: descending (desc) or ascending (asc) date.
+  #    order: desc
+  #  design:
+  #    # Choose a layout view
+  #    view: compact
+  #    columns: '2'
   #- block: collection
    # id: featured
     #content:
@@ -152,6 +152,7 @@ sections:
   - block: collection
     content:
       title: Journal Papers
+      count: 0
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -167,6 +168,7 @@ sections:
   - block: collection
     content:
       title: Conference Papers
+      count: 0
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -202,14 +204,22 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        #- certificate_url: https://www.coursera.org
-        #  date_end: ''
-        #  date_start: '2021-01-25'
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2016-11-04'
         #  description: ''
         #  icon: coursera
-        #  organization: Coursera
+          organization: Turkish National Geodetic Comission (TUJK)
         #  organization_url: https://www.coursera.org
-        #  title: Neural Networks and Deep Learning
+          title: Best Poster Presentation Award
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2022-11-04'
+        #  description: ''
+        #  icon: coursera
+          organization: Turkish National Geodetic Comission (TUJK)
+        #  organization_url: https://www.coursera.org
+          title: Incentive Award
         #  url: ''
         #- certificate_url: https://www.edx.org
         #  date_end: ''
@@ -231,11 +241,11 @@ sections:
         #  url: ''
     design:
       columns: '2'
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  #- block: tag_cloud
+  #  content:
+  #    title: Popular Topics
+  #  design:
+  #    columns: '2'
   - block: contact
     id: contact
     content:
