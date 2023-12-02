@@ -64,7 +64,7 @@ sections:
       items:
         - title: Research Assistant
           company: Istanbul Technical University
-          company_url: 'https://www.itu.edu.tr/en'
+          company_url: 'https://avesis.itu.edu.tr/isikm'
           company_logo: itu_logo
           location: Turkey
           date_start: '2016-02-06'
@@ -74,6 +74,41 @@ sections:
 
               * Research on remote sensing, satellite geodesy, XAI, and positioning
               * Teaching lectures on computer programming and geosciences
+        - title: Researcher (Climate Change AI Project)
+          company: 'Improving Resiliency of Malian Farmers with Yield Estimation: IMPRESSYIELD, Project No: 182'
+          company_url: 'https://www.climatechange.ai/'
+          company_logo: 
+          location: Turkey
+          date_start: '2022-08-01'
+          date_end: '2023-11-01'
+        - title: Scientific Advisor (KAMA PRES INDUSTRY & TRADE INC.)
+          company: 'Software Design for Determining the Ideal Movement Route of Robot Arms via LiDAR and Image Processing'
+          company_url: ''
+          company_logo: 
+          location: Turkey
+          date_start: '2021-01-01'
+          date_end: '2022-01-01'
+        - title: Researcher (ITU General Research Project)
+          company: 'Methodological Research on the Improvement of Local Geoid Modeling, Project No: MGA-2018-41592'
+          company_url: ''
+          company_logo: 
+          location: Turkey
+          date_start: '2018-07-01'
+          date_end: '2019-10-01'
+        - title: Researcher (ITU General Research Project)
+          company: 'Research on the Optimum Resolution of Digital Elevation Model for the Topographic Effect on Gravity Measurements, Project No: MGA-2018-41585'
+          company_url: ''
+          company_logo: 
+          location: Turkey
+          date_start: '2018-07-01'
+          date_end: '2019-07-01'
+        - title: Project Research Assistant (Scientific research project funded by Scientific and Technological Research Council of Turkey (TUBITAK))
+          company: 'Methodology Investigation for Improvement on Regional Geoid Modeling \& Contribution of Recent Gravity Field Satellite Missions and Satellite Altimetry Data to Geoid Model Improvement'
+          company_url: 'https://www.gravity.itu.edu.tr/114Y581.php'
+          company_logo: 
+          location: Turkey
+          date_start: '2018-07-01'
+          date_end: '2019-07-01'
     design:
       columns: '2'
   - block: portfolio
@@ -150,6 +185,7 @@ sections:
     #  columns: '2'
     #  view: card
   - block: collection
+    id: papers
     content:
       title: Journal Papers
       count: 0
