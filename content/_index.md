@@ -217,6 +217,102 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Software design'
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2019-08-01'
+          #description: 'Written by Mustafa Serkan Isik & Volkan Ozbey | Cite: Işik, M. S., Özbey, V., Erol, S., & Tari, E. (2021, July). GNSSpy: Python Toolkit for GNSS Data. In 2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS (pp. 8550-8553). IEEE. https://doi.org/10.1109/IGARSS47720.2021.9553880'
+          organization: 'https://github.com/GNSSpy-Project/gnsspy'
+          title: 'GNSSpy: Python Toolkit for GNSS Data'
+          url: 'https://github.com/GNSSpy-Project/gnsspy'
+
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2022-05-01'
+          #description: 'Written by Ozan Ozturk & Mustafa Serkan Isik | Cite: Ozturk, O., Isik, M. S., Sariturk, B., Seker, D. Z. (2022). Generation of Istanbul Road Data Set using Google Map API for Deep Learning-Based Segmentation. International Journal of Remote Sensing. https://doi.org/10.1080/01431161.2022.2068989'
+          organization: 'https://github.com/geomsi/road_segmentation_data_generation'
+          title: 'Road Segmentation Data Generation'
+          url: 'https://github.com/geomsi/road_segmentation_data_generation'
+    design:
+      columns: '2'
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Datasets'
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2022-05-02'
+          organization: 'https://www.kaggle.com/datasets/ozanozturk61/istanbul-road-dataset'
+          title: 'Istanbul Road Dataset for Segmentation'
+          url: 'https://www.kaggle.com/datasets/ozanozturk61/istanbul-road-dataset'
+
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2022-03-01'
+          description: ''
+        #  icon: coursera
+          organization: 
+          title: 'Turkey geoid model based on LSMSA: Turkey-ITUGRG2021'
+          url: 'https://isgeoid.polimi.it/Geoid/Europe/Turkey/turkey2021_g.html'
+
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2021-04-01'
+          description: ''
+        #  icon: coursera
+          organization: 
+          title: 'The ITU quasi-geoid based on Least Squares modification of Hotine integral with additive corrections for the Colorado Experiment: ColLSMHA2021'
+          url: 'https://doi.org/10.5880/isg.2021.001'
+
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2021-04-01'
+          description: ''
+        #  icon: coursera
+          organization: 
+          title: 'TThe ITU geoid based on Least Squares modification of Hotine integral with additive corrections for the Colorado Experiment: ColLSMHA2021'
+          url: 'https://doi.org/10.5880/isg.2021.002'
+
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2021-04-01'
+          description: ''
+        #  icon: coursera
+          organization: 
+          title: 'The ITU quasi-geoid based on Least Squares modification of Stokes integral with additive corrections for the Colorado Experiment: ColLSMSA2020'
+          url: 'https://doi.org/10.5880/isg.2020.005'
+
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2021-04-01'
+          description: ''
+        #  icon: coursera
+          organization: 
+          title: 'The ITU geoid based on Least Squares modification of Stokes integral with additive corrections for the Colorado Experiment: ColLSMSA2020'
+          url: 'https://doi.org/10.5880/isg.2020.006'
+    design:
+      columns: '2'
   - block: collection
     id: talks
     content:
