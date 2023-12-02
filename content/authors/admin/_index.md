@@ -137,5 +137,5 @@ social:
 highlight_name: true
 ---
 
-I am a research assistant at Istanbul Technical University. I teach programming (python), mathematical & physical geodesy lectures at the Department of Geomatics Engineering. My research interests include water cycle, remote sensing, satellite geodesy, and ML/DL algorithms.
+I am a research assistant at Istanbul Technical University. I teach computer programming, mathematical & physical geodesy lectures at the Department of Geomatics Engineering. My research interests include water cycle, remote sensing, satellite geodesy, and ML/DL algorithms.
 {style="text-align: justify;"}
