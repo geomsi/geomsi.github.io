@@ -1,5 +1,5 @@
 ---
-title: 'Explainable Artificial Intelligence for Cotton Yield Prediction with Multisource Data'
+title: 'Explainability of end and mid-season cotton yield predictors in CONUS'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -15,7 +15,7 @@ author_notes:
   - 'Corresponding author'
 
 date: '2023-07-01T00:00:00Z'
-doi: ''
+doi: '10.1109/IGARSS52108.2023.10283252'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-01-01T00:00:00Z'

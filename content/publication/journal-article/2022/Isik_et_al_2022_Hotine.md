@@ -1,17 +1,17 @@
 ---
-title: "High-Resolution Geoid Modeling Using Least Squares Modification of Stokes and Hotine Formulas in Colorado"
+title: "Geoid modeling with least squares modification of Hotine’s integral using gravity disturbances in Turkey"
 authors:
 - admin
 - Bihter Erol
+- Muhammed Rasit Cevikalp
 - Serdar Erol
-- Fatıma Feyza Sakil
 author_notes:
 - "Corresponding author"
-date: "2021-04-01T00:00:00Z"
-doi: ""
+date: "2022-07-16T00:00:00Z"
+doi: "https://doi.org/10.1007/s12145-022-00843-2"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-04-01T00:00:00Z"
+publishDate: "2022-07-16T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -19,7 +19,7 @@ publishDate: "2021-04-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Geodesy, 1*(1)"
+publication: "*Earth Science Informatics, 15*(1889–1904)"
 publication_short: ""
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
@@ -34,8 +34,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -62,7 +62,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 ---
 
 {{% callout note %}}
