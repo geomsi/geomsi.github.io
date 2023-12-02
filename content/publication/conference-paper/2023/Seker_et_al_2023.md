@@ -34,7 +34,7 @@ abstract: Road segmentation based on optical images is still challenging due to 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: ['Road Segmentation']
+tags: ['Road Segmentation','Deep learning','LiDAR']
 
 # Display this page in the Featured widget?
 featured: false
@@ -66,7 +66,6 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - IMPRESSYIELD
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
