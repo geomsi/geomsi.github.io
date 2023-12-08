@@ -62,17 +62,17 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Assistant
+        - title: Research Fellow (Post-doc)
           company: Istanbul Technical University
           company_url: 'https://avesis.itu.edu.tr/isikm'
           company_logo: itu_logo
           location: Turkey
-          date_start: '2016-02-06'
+          date_start: '2022-10-15'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Research on remote sensing, satellite geodesy, XAI, and positioning
+              * Research on remote sensing, satellite geodesy, GNSS reflectometry, XAI, and positioning
               * Teaching lectures on computer programming and geosciences
         - title: Researcher (Climate Change AI Project)
           company: 'Improving Resiliency of Malian Farmers with Yield Estimation: IMPRESSYIELD, Project No: 182'
@@ -81,6 +81,18 @@ sections:
           location: Turkey
           date_start: '2022-08-01'
           date_end: '2023-11-01'
+        - title: Research Assistant
+          company: Istanbul Technical University
+          company_url: 'https://avesis.itu.edu.tr/isikm'
+          company_logo: itu_logo
+          location: Turkey
+          date_start: '2016-02-06'
+          date_end: '2022-10-14'
+          description: |2-
+              Responsibilities include:
+
+              * Research on remote sensing, satellite geodesy, GNSS reflectometry, XAI, and positioning
+              * Teaching/assisting lectures on computer programming and geosciences
         - title: Scientific Advisor (KAMA PRES INDUSTRY & TRADE INC.)
           company: 'Software Design for Determining the Ideal Movement Route of Robot Arms via LiDAR and Image Processing'
           company_url: ''

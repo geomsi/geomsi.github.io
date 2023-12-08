@@ -6,7 +6,7 @@ title: Mustafa Serkan Isik
 #name_pronunciation: Mustafa Serkan Isik
 
 # Full name (for SEO)
-first_name: Mustafa Serkan
+first_name: M. Serkan
 last_name: Isik
 
 # Status emoji
@@ -31,8 +31,8 @@ bio: My research interests include water cycle, remote sensing and satellite geo
 interests:
   - Remote Sensing & EO Data
   - Artificial Intelligence
-  - Satellite & Airborne Gravity
   - GNSS Reflectometry
+  - Satellite & Airborne Gravity
   - Positioning Algorithms
 
 # Education to show in About widget
@@ -137,5 +137,5 @@ social:
 highlight_name: true
 ---
 
-I am a research assistant at Istanbul Technical University. I teach computer programming, mathematical & physical geodesy lectures at the Department of Geomatics Engineering. My research interests include water cycle, remote sensing, satellite geodesy, and ML/DL algorithms.
+I am a research fellow at Istanbul Technical University. I teach computer programming, mathematical & physical geodesy lectures at the Department of Geomatics Engineering. My research interests include water cycle, remote sensing, satellite geodesy, and ML/DL algorithms.
 {style="text-align: justify;"}
