@@ -137,5 +137,5 @@ social:
 highlight_name: true
 ---
 
-I am a research fellow at Istanbul Technical University. I teach computer programming, mathematical & physical geodesy lectures at the Department of Geomatics Engineering. My research interests include water cycle, remote sensing, satellite geodesy, and ML/DL algorithms.
+I am a post-doctoral researcher at the OpenGeoHub Research Foundation, located in the Netherlands. I taught computer programming, mathematical & physical geodesy lectures at the Department of Geomatics Engineering, Istanbul Technical University. My research interests include water cycle, agriculture, remote sensing, satellite geodesy, and ML/DL algorithms.
 {style="text-align: justify;"}
