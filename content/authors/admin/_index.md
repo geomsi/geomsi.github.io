@@ -21,8 +21,8 @@ role: PhD in Geosciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Istanbul Technical University
-    url: https://www.itu.edu.tr/
+  - name: 
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include water cycle, remote sensing and satellite geodesy, and ML/DL algorithms.
