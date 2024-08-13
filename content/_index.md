@@ -62,13 +62,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Post-doctoral Researcher
+          company: OpenGeoHub Foundation
+          company_url: 'https://opengeohub.org/people/serkan-isik/'
+          company_logo: itu_logo
+          location: Doorwerth, NL
+          date_start: '2024-04-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * time-series analysis of earth observation data, analyzing satellite data and visualization
+              * developing land degradation and land potential modeling frameworks
+              * modeling Gross Primary Productivity, dynamics in canopy height, estimating gaps between potential and actual ecosystems
+              * building models using machine learning and statistics methods
         - title: Research Fellow (Post-doc)
           company: Istanbul Technical University
           company_url: 'https://avesis.itu.edu.tr/isikm'
           company_logo: itu_logo
           location: Turkey
           date_start: '2022-10-15'
-          date_end: ''
+          date_end: '2024-03-31'
           description: |2-
               Responsibilities include:
 
