@@ -65,7 +65,7 @@ sections:
         - title: Post-doctoral Researcher
           company: OpenGeoHub Foundation
           company_url: 'https://opengeohub.org/people/serkan-isik/'
-          company_logo: itu_logo
+          company_logo: ogh
           location: Doorwerth, NL
           date_start: '2024-04-01'
           date_end: ''
